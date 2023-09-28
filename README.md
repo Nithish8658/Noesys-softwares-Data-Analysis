@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Nithish8658
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Nithish8658/Nithish8658 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Here its nithish kumar 
+bsc computer science graduate 
+pursuing my master's degree in Data science
+professional coder 
+freelancer,
+programmer.
